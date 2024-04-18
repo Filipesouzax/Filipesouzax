@@ -1,7 +1,7 @@
-### Hello World I'm *Filipe Souza* 
+### 👋 Hey there, I'm Filipe Souza! 👨‍💻
 
 
-👋 Hey there, I'm Filipe Souza! 👨‍💻
+
 
 🌟 Technology enthusiast and open-source advocate all rolled into one! I thrive on the excitement of tackling complex problems and crafting elegant solutions. 💡
 
