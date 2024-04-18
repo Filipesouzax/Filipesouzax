@@ -13,7 +13,7 @@
 
 🔗 Connect with me here on GitHub, and let's embark on an epic coding journey together! 🚀
 
-✉️ Feel free to shoot me a message at filipesworks@gmail.com or connect with me on [other social media platforms]. Let's code, create, and conquer! 💪
+✉️ Feel free to shoot me a message at filipesworks@gmail.com . Let's code, create, and conquer! 💪
 ------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipesouzax&theme=great-gatsby&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Filipesouzax&theme=great-gatsby)](https://git.io/streak-stats)
